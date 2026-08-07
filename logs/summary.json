@@ -1,0 +1,21 @@
+{
+  "info": {
+    "id": "019fdd1c-dd8b-7df1-b7eb-027b759cae14",
+    "cwd": "C:\\Users\\USER\\Downloads"
+  },
+  "session_summary": "Kaggle Deepfake Image Detection Kernel Pull",
+  "created_at": "2026-08-07T16:44:44.303462200Z",
+  "updated_at": "2026-08-07T23:07:00.781701700Z",
+  "num_messages": 4539,
+  "num_chat_messages": 444,
+  "current_model_id": "grok-4.5",
+  "next_trace_turn": 12,
+  "chat_format_version": 1,
+  "request_id": "c742282e-2c3b-45dc-a496-b25f83fdebf2",
+  "grok_home": "C:\\Users\\USER\\.grok",
+  "last_active_at": "2026-08-07T23:07:00.781701700Z",
+  "generated_title": "Kaggle Deepfake Image Detection Kernel Pull",
+  "agent_name": "grok-build-plan",
+  "sandbox_profile": "off",
+  "reasoning_effort": "high"
+}

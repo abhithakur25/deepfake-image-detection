@@ -1,0 +1,372 @@
+{
+  "ok": 57,
+  "skip": 7,
+  "fail": 9,
+  "cells": [
+    {
+      "i": 0,
+      "status": "skip",
+      "detail": "pip-only"
+    },
+    {
+      "i": 1,
+      "status": "ok",
+      "detail": "9.4s"
+    },
+    {
+      "i": 2,
+      "status": "ok",
+      "detail": "2.6s"
+    },
+    {
+      "i": 3,
+      "status": "ok",
+      "detail": "0.2s"
+    },
+    {
+      "i": 4,
+      "status": "ok",
+      "detail": "0.3s"
+    },
+    {
+      "i": 5,
+      "status": "ok",
+      "detail": "81.0s"
+    },
+    {
+      "i": 6,
+      "status": "ok",
+      "detail": "0.7s"
+    },
+    {
+      "i": 7,
+      "status": "ok",
+      "detail": "1493.2s"
+    },
+    {
+      "i": 8,
+      "status": "ok",
+      "detail": "347.9s"
+    },
+    {
+      "i": 9,
+      "status": "skip",
+      "detail": "pip-only"
+    },
+    {
+      "i": 10,
+      "status": "ok",
+      "detail": "0.0s"
+    },
+    {
+      "i": 11,
+      "status": "ok",
+      "detail": "0.4s"
+    },
+    {
+      "i": 12,
+      "status": "skip",
+      "detail": "interactive upload widget"
+    },
+    {
+      "i": 13,
+      "status": "ok",
+      "detail": "0.0s"
+    },
+    {
+      "i": 14,
+      "status": "fail",
+      "detail": "ValueError: Unknown label type: unknown. Maybe you are trying to fit a classifier, which expects discrete classes on a regression target with continuous values."
+    },
+    {
+      "i": 15,
+      "status": "fail",
+      "detail": "ArrowNotImplementedError: Unsupported cast from double to struct using function cast_struct"
+    },
+    {
+      "i": 16,
+      "status": "ok",
+      "detail": "0.0s"
+    },
+    {
+      "i": 17,
+      "status": "ok",
+      "detail": "0.2s"
+    },
+    {
+      "i": 18,
+      "status": "ok",
+      "detail": "1299.0s"
+    },
+    {
+      "i": 19,
+      "status": "ok",
+      "detail": "1308.7s"
+    },
+    {
+      "i": 20,
+      "status": "ok",
+      "detail": "352.2s"
+    },
+    {
+      "i": 21,
+      "status": "ok",
+      "detail": "0.1s"
+    },
+    {
+      "i": 22,
+      "status": "ok",
+      "detail": "0.0s"
+    },
+    {
+      "i": 23,
+      "status": "ok",
+      "detail": "0.0s"
+    },
+    {
+      "i": 24,
+      "status": "ok",
+      "detail": "0.2s"
+    },
+    {
+      "i": 25,
+      "status": "ok",
+      "detail": "0.1s"
+    },
+    {
+      "i": 26,
+      "status": "ok",
+      "detail": "0.0s"
+    },
+    {
+      "i": 27,
+      "status": "ok",
+      "detail": "0.1s"
+    },
+    {
+      "i": 28,
+      "status": "ok",
+      "detail": "999.2s"
+    },
+    {
+      "i": 29,
+      "status": "ok",
+      "detail": "112.0s"
+    },
+    {
+      "i": 30,
+      "status": "ok",
+      "detail": "0.2s"
+    },
+    {
+      "i": 31,
+      "status": "ok",
+      "detail": "44.5s"
+    },
+    {
+      "i": 32,
+      "status": "ok",
+      "detail": "0.0s"
+    },
+    {
+      "i": 33,
+      "status": "fail",
+      "detail": "FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/USER/Downloads/kaggle_run/input/datasets/alessandrasala79/ai-vs-human-generated-dataset/train.csv'"
+    },
+    {
+      "i": 34,
+      "status": "fail",
+      "detail": "FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/USER/Downloads/kaggle_run/input/datasets/alessandrasala79/ai-vs-human-generated-dataset/train.csv'"
+    },
+    {
+      "i": 35,
+      "status": "ok",
+      "detail": "0.2s"
+    },
+    {
+      "i": 36,
+      "status": "ok",
+      "detail": "0.1s"
+    },
+    {
+      "i": 37,
+      "status": "ok",
+      "detail": "0.0s"
+    },
+    {
+      "i": 38,
+      "status": "ok",
+      "detail": "0.1s"
+    },
+    {
+      "i": 39,
+      "status": "ok",
+      "detail": "987.8s"
+    },
+    {
+      "i": 40,
+      "status": "ok",
+      "detail": "112.2s"
+    },
+    {
+      "i": 41,
+      "status": "ok",
+      "detail": "0.1s"
+    },
+    {
+      "i": 42,
+      "status": "ok",
+      "detail": "44.6s"
+    },
+    {
+      "i": 43,
+      "status": "skip",
+      "detail": "interactive upload widget"
+    },
+    {
+      "i": 44,
+      "status": "ok",
+      "detail": "0.0s"
+    },
+    {
+      "i": 45,
+      "status": "ok",
+      "detail": "0.0s"
+    },
+    {
+      "i": 46,
+      "status": "ok",
+      "detail": "0.2s"
+    },
+    {
+      "i": 47,
+      "status": "fail",
+      "detail": "FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/USER/Downloads/kaggle_run/input/datasets/alessandrasala79/ai-vs-human-generated-dataset/train.csv'"
+    },
+    {
+      "i": 48,
+      "status": "fail",
+      "detail": "IndexError: list index out of range"
+    },
+    {
+      "i": 49,
+      "status": "ok",
+      "detail": "28.7s"
+    },
+    {
+      "i": 50,
+      "status": "ok",
+      "detail": "482.0s"
+    },
+    {
+      "i": 51,
+      "status": "ok",
+      "detail": "3.3s"
+    },
+    {
+      "i": 52,
+      "status": "fail",
+      "detail": "KeyError: 'Alessandro'"
+    },
+    {
+      "i": 53,
+      "status": "ok",
+      "detail": "0.0s"
+    },
+    {
+      "i": 54,
+      "status": "ok",
+      "detail": "0.0s"
+    },
+    {
+      "i": 55,
+      "status": "skip",
+      "detail": "pip-only"
+    },
+    {
+      "i": 56,
+      "status": "ok",
+      "detail": "0.0s"
+    },
+    {
+      "i": 57,
+      "status": "skip",
+      "detail": "kernel restart"
+    },
+    {
+      "i": 58,
+      "status": "ok",
+      "detail": "0.0s"
+    },
+    {
+      "i": 59,
+      "status": "fail",
+      "detail": "FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/USER/Downloads/kaggle_run/input/datasets/alessandrasala79/ai-vs-human-generated-dataset/train.csv'"
+    },
+    {
+      "i": 60,
+      "status": "ok",
+      "detail": "3.8s"
+    },
+    {
+      "i": 61,
+      "status": "skip",
+      "detail": "kernel restart"
+    },
+    {
+      "i": 62,
+      "status": "ok",
+      "detail": "0.0s"
+    },
+    {
+      "i": 63,
+      "status": "fail",
+      "detail": "FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/USER/Downloads/kaggle_run/input/datasets/alessandrasala79/ai-vs-human-generated-dataset/train.csv'"
+    },
+    {
+      "i": 64,
+      "status": "ok",
+      "detail": "0.2s"
+    },
+    {
+      "i": 65,
+      "status": "ok",
+      "detail": "0.1s"
+    },
+    {
+      "i": 66,
+      "status": "ok",
+      "detail": "0.0s"
+    },
+    {
+      "i": 67,
+      "status": "ok",
+      "detail": "0.1s"
+    },
+    {
+      "i": 68,
+      "status": "ok",
+      "detail": "997.3s"
+    },
+    {
+      "i": 69,
+      "status": "ok",
+      "detail": "57.2s"
+    },
+    {
+      "i": 70,
+      "status": "ok",
+      "detail": "0.1s"
+    },
+    {
+      "i": 71,
+      "status": "ok",
+      "detail": "1.5s"
+    },
+    {
+      "i": 72,
+      "status": "ok",
+      "detail": "44.2s"
+    }
+  ]
+}

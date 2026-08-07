@@ -1,0 +1,33 @@
+﻿# Data & large models
+input/
+working/**/*.safetensors
+working/**/*.pt
+working/**/*.bin
+working/**/*.zip
+working/**/checkpoint-*/
+working/**/optimizer.pt
+working/**/rng_state.pth
+working/**/scheduler.pt
+*.zip
+*.safetensors
+
+# Node
+node_modules/
+package-lock.json
+
+# Logs bloat (keep pipeline reports)
+logs/terminal/
+logs/updates.jsonl
+logs/chat_history.jsonl
+logs/events.jsonl
+logs/*.lock
+logs/updates.jsonl.lock
+
+# OS
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.env
+credentials.json
+kaggle.json
